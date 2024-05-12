@@ -871,7 +871,7 @@ prescheurs	prêcheur	NOMcom	NOMB.=p|GENRE=m
 /	/	PONfbl	MORPH=empty
 qui	qui	PROrel	NOMB.=p|GENRE=m|CAS=n
 preschent	prêcher	VERcjg	MODE=ind|TEMPS=pst|PERS.=6|NOMB.=p
-es	en_le	DETndf	NOMB.=p
+es	en_le	PRE	MORPH=empty
 terres	terre	NOMcom	NOMB.=p|GENRE=f
 de	de	PRE	MORPH=empty
 Berne	Berne	NOMpro	NOMB.=s|GENRE=x

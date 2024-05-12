@@ -125,7 +125,7 @@ tous	tout	DETind	NOMB.=p|GENRE=m
 les	le	DETdef	NOMB.=p|GENRE=m
 fideles	fidèle	NOMcom	NOMB.=p|GENRE=m
 vray	vrai	ADJqua	NOMB.=p|GENRE=m
-dieu	dieu	NOMcom	NOMB.=s|GENRE=m
+dieu	Dieu	NOMpro	NOMB.=s|GENRE=m
 eternel	éternel	ADJqua	NOMB.=s|GENRE=m
 ,	,	PONfbl	MORPH=empty
 faisant	faire	VERppa	NOMB.=s|GENRE=m
@@ -323,7 +323,7 @@ graces	grâce	NOMcom	NOMB.=p|GENRE=f
 /	/	PONfbl	MORPH=empty
 privileges	privilège	NOMcom	NOMB.=p|GENRE=m
 /	/	PONfbl	MORPH=empty
-pardons	pardon	VERcjg	NOMB.=p|GENRE=m
+pardons	pardon	NOMcom	NOMB.=p|GENRE=m
 /	/	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 indulgences	indulgence	ADJqua	NOMB.=p|GENRE=f
