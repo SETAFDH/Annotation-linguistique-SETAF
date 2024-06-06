@@ -128,7 +128,7 @@ son	son	DETpos	PERS.=3|NOMB.=s|GENRE=m
 Esprit	esprit	NOMcom	NOMB.=s|GENRE=m
 /	/	PONfbl	MORPH=empty
 Le	le	NOMpro	NOMB.=s|GENRE=m
-Pape	pape	VERcjg	NOMB.=s|GENRE=m
+Pape	pape	NOMcom	NOMB.=s|GENRE=m
 non	non	ADVgen	MORPH=empty
 :	:	PONfbl	MORPH=empty
 mais	mais	CONcoo	MORPH=empty
@@ -266,7 +266,7 @@ de	de	PRE	MORPH=empty
 sens	sens	NOMcom	NOMB.=s|GENRE=m
 /	/	PONfbl	MORPH=empty
 qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
-se	se	PROper	PERS.=3
+se	se	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 travailleroit	travailler	VERcjg	MODE=con|PERS.=3|NOMB.=s
 /	/	PONfbl	MORPH=empty
 de	de	PRE	MORPH=empty
@@ -275,18 +275,18 @@ que	que	CONsub	MORPH=empty
 Jesus	Jésus	NOMpro	NOMB.=s|GENRE=m
 et	et	CONcoo	MORPH=empty
 les	le	DETdef	NOMB.=p|GENRE=m
-siens	sien	PROpos	PERS.=6|NOMB.=p|GENRE=m|CAS=n
+siens	sien	PROpos	PERS.=3|NOMB.=p|GENRE=m|CAS=n
 /	/	PONfbl	MORPH=empty
 n'	ne	ADVneg	MORPH=empty
 ont	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=6|NOMB.=p
 point	point	ADVgen	MORPH=empty
-faict	faire	VERppe	NOMB.=p|GENRE=m
+faict	faire	VERppe	NOMB.=x|GENRE=x
 comme	comme	CONsub	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m
 Pape	pape	NOMcom	NOMB.=s|GENRE=m
 et	et	CONcoo	MORPH=empty
 les	le	DETdef	NOMB.=p|GENRE=m
-siens	sien	PROpos	PERS.=6|NOMB.=p|GENRE=m|CAS=r
+siens	sien	PROpos	PERS.=3|NOMB.=p|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 Neantmoins	néanmoins	ADVgen	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f
@@ -346,7 +346,7 @@ moynes	moine	NOMcom	NOMB.=p|GENRE=m
 /	/	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 tous	tout	DETind	NOMB.=p|GENRE=m
-ceulx	celui	PROdem	NOMB.=p|GENRE=m
+ceulx	celui	PROdem	NOMB.=p|GENRE=m|CAS=n
 qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
 tiennent	tenir	VERcjg	MODE=ind|TEMPS=pst|PERS.=6|NOMB.=p
 de	de	PRE	MORPH=empty
@@ -471,8 +471,8 @@ le	le	DETdef	NOMB.=s|GENRE=m
 Pape	pape	NOMcom	NOMB.=s|GENRE=m
 et	et	CONcoo	MORPH=empty
 les	le	DETdef	NOMB.=p|GENRE=m
-siens	sien	PROpos	PERS.=6|NOMB.=p|GENRE=m|CAS=r
-se	se	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
+siens	sien	PROpos	PERS.=3|NOMB.=p|GENRE=m|CAS=r
+se	se	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 congnoissent	connaître	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 telz	tel	PROind	NOMB.=p|GENRE=m|CAS=n
 /	/	PROcar	MORPH=empty
@@ -487,12 +487,12 @@ mesmes	même	ADJind	NOMB.=p|GENRE=m
 ne	ne	ADVneg	MORPH=empty
 cerchant	chercher	VERppa	NOMB.=p|GENRE=m
 que	que	CONsub	MORPH=empty
-se	se	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
+se	se	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 cacher	cacher	VERinf	MORPH=empty
 /	/	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 aucunement	aucunement	ADVgen	MORPH=empty
-soy	se	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
+soy	se	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
 entretenir	entretenir	VERinf	MORPH=empty
 /	/	PONfbl	MORPH=empty
 par	par	PRE	MORPH=empty
@@ -517,7 +517,7 @@ destruire	détruire	VERinf	MORPH=empty
 ceulx	celui	PROdem	NOMB.=p|GENRE=m|CAS=n
 qui	qui	PROrel	NOMB.=p|GENRE=m|CAS=n
 monstrent	montrer	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
-leur	leur	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
+leur	leur	DETpos	PERS.=6|NOMB.=s|GENRE=m
 estat	état	NOMcom	NOMB.=s|GENRE=m
 /	/	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
@@ -587,7 +587,7 @@ les	le	DETdef	NOMB.=p|GENRE=m
 siens	sien	PROpos	PERS.=3|NOMB.=p|GENRE=m|CAS=n
 vivoyent	vivre	VERcjg	MODE=ind|TEMPS=ipf|PERS.=6|NOMB.=p
 selon	selon	PRE	MORPH=empty
-leur	leur	DETpos	PERS.=3|NOMB.=s|GENRE=m
+leur	leur	DETpos	PERS.=6|NOMB.=s|GENRE=m
 estat	état	NOMcom	NOMB.=s|GENRE=m
 /	/	PONfbl	MORPH=empty
 selon	selon	PRE	MORPH=empty
@@ -677,7 +677,7 @@ comme	comme	CONsub	MORPH=empty
 des	un	DETndf	NOMB.=p|GENRE=m
 fardemens	fardement	NOMcom	NOMB.=p|GENRE=m
 /	/	PONfbl	MORPH=empty
-enchanterie	enchanterie	VERcjg	NOMB.=s|GENRE=f
+enchanterie	enchanterie	NOMcom	NOMB.=s|GENRE=f
 /	/	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 toute	tout	DETind	NOMB.=s|GENRE=f
@@ -686,7 +686,7 @@ de	de	PRE	MORPH=empty
 Pape	pape	NOMcom	NOMB.=s|GENRE=m
 Paul	Paul	NOMpro	NOMB.=s|GENRE=m
 /	/	PONfbl	MORPH=empty
-ne	NÉ	ADVneg	MORPH=empty
+ne	ni	ADVneg	MORPH=empty
 de	de	PRE	MORPH=empty
 Alexandre	Alexandre	NOMpro	NOMB.=s|GENRE=m
 /	/	PONfbl	MORPH=empty
@@ -806,7 +806,7 @@ eglise	église	NOMcom	NOMB.=s|GENRE=f
 qu'	que	PROrel	NOMB.=s|GENRE=f|CAS=r
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-faict	faire	VERppe	NOMB.=s|GENRE=m
+faict	faire	VERppe	NOMB.=x|GENRE=x
 et	et	CONcoo	MORPH=empty
 commande	commander	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 .	.	PONfrt	MORPH=empty
@@ -835,7 +835,7 @@ craintives	craintif	ADJqua	NOMB.=p|GENRE=f
 /	/	PONfbl	MORPH=empty
 qui	qui	PROrel	NOMB.=p|GENRE=f|CAS=n
 ont	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
-pense	penser	VERppe	NOMB.=s|GENRE=x
+pense	penser	VERppe	NOMB.=x|GENRE=x
 la	le	DETdef	NOMB.=s|GENRE=f
 papaulte	papaulte	NOMcom	NOMB.=s|GENRE=f
 estre	être	VERinf	MORPH=empty
@@ -846,7 +846,7 @@ et	et	CONcoo	MORPH=empty
 qui	qui	PROrel	NOMB.=p|GENRE=f|CAS=n
 ont	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=6|NOMB.=p
 plus	plus	ADVgen	MORPH=empty
-tremble	trembler	VERppe	NOMB.=s|GENRE=m
+tremble	trembler	VERppe	NOMB.=x|GENRE=x
 pour	pour	PRE	MORPH=empty
 les	le	DETdef	NOMB.=p|GENRE=f
 fulminations	fulmination	NOMcom	NOMB.=p|GENRE=f
@@ -855,7 +855,7 @@ Papes	pape	NOMcom	NOMB.=p|GENRE=m
 /	/	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 plus	plus	ADVgen	MORPH=empty
-craint	craindre	VERppe	NOMB.=s|GENRE=m
+craint	craindre	VERppe	NOMB.=x|GENRE=x
 de	de	PRE	MORPH=empty
 passer	passer	VERinf	MORPH=empty
 les	le	DETdef	NOMB.=p|GENRE=f
@@ -876,7 +876,7 @@ tyrannie	tyrannie	NOMcom	NOMB.=s|GENRE=f
 et	et	CONcoo	MORPH=empty
 que	que	CONsub	MORPH=empty
 plainement	plainement	ADVgen	MORPH=empty
-se	se	PROper	PERS.=6|NOMB.=p|GENRE=m|CAS=n
+se	se	PROper	PERS.=6|NOMB.=p|GENRE=f|CAS=r
 retournent	retourner	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 au	à_le	PRE.DETdef	NOMB.=s|GENRE=m
 vray	vrai	ADJqua	NOMB.=s|GENRE=m
@@ -891,7 +891,7 @@ iceluy	cil	PROdem	NOMB.=s|GENRE=m|CAS=r
 seul	seul	ADJqua	NOMB.=s|GENRE=m
 /	/	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
-s'	se	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
+s'	se	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 arrestant	arrêter	VERppa	NOMB.=s|GENRE=m
 a	à	PRE	MORPH=empty
 sa	son	DETpos	PERS.=3|NOMB.=s|GENRE=f
@@ -924,7 +924,7 @@ vray	vrai	ADJqua	NOMB.=s|GENRE=m
 Dieu	dieu	NOMpro	NOMB.=s|GENRE=m
 qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-faict	faire	VERppe	NOMB.=s|GENRE=x
+faict	faire	VERppe	NOMB.=x|GENRE=x
 le	le	DETdef	NOMB.=s|GENRE=m
 ciel	ciel	NOMcom	NOMB.=s|GENRE=m
 et	et	CONcoo	MORPH=empty
@@ -959,7 +959,7 @@ comme	comme	CONsub	MORPH=empty
 l'	le	DETdef	NOMB.=s|GENRE=n
 on	on	PROind	PERS.=3|NOMB.=s|CAS=n
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-faict	faire	VERppe	NOMB.=s|GENRE=x
+faict	faire	VERppe	NOMB.=x|GENRE=x
 jusques	jusque	PRE	MORPH=empty
 a	à	PRE	MORPH=empty
 present	présent	ADJqua	NOMB.=s|GENRE=m
@@ -992,7 +992,7 @@ sa	son	DETpos	PERS.=3|NOMB.=s|GENRE=f
 parolle	parole	NOMcom	NOMB.=s|GENRE=f
 :	:	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
-ce	ce	PROdem	NOMB.=s|GENRE=n
+ce	ce	PROdem	NOMB.=s|GENRE=n|CAS=r
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 l'	le	DETdef	NOMB.=s|GENRE=f
 instigation	instigation	NOMcom	NOMB.=s|GENRE=f
