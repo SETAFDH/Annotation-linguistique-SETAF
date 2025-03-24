@@ -1363,8 +1363,7 @@ la	le	DETdef	NOMB.=s|GENRE=f
 fin	fin	NOMcom	NOMB.=s|GENRE=f
 ,	,	PONfbl	MORPH=empty
 ne	ne	ADVneg	MORPH=empty
-vou	vœu	VERcjg	PERS.=3|NOMB.=s
-lant	lant	ADVgen	NOMB.=s
+voulant	vouloir	VERppa	MORPH=empty
 que	que	CONsub	MORPH=empty
 personne	personne	PROind	NOMB.=s|GENRE=m|CAS=n
 presume	présumer	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s
@@ -1405,9 +1404,7 @@ sus	sus	ADVgen	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f
 peine	peine	NOMcom	NOMB.=s|GENRE=f
 d'	de	PRE	MORPH=empty
-excom	excom	NOMcom	NOMB.=s|GENRE=m
--	-	PONfbl	MORPH=empty
-muniement	muniement	ADVgen	MORPH=empty
+excommuniement	excom	NOMcom	NOMB.=s|GENRE=m
 et	et	CONcoo	MORPH=empty
 de	de	PRE	MORPH=empty
 malediction	malédiction	NOMcom	NOMB.=s|GENRE=f
