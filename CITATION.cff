@@ -1,9 +1,9 @@
-cff-version: 1.0
-title: Données d'annotation linguistique du projet SETAF
+cff-version: 1.2.0
+message: "If you use this dataset, please cite this repository as below."
+title: "Données d'annotation linguistique du projet SETAF"
+abstract: >-
+  Linguistic annotation data for the SETAF project.
 type: dataset
-message: >-
-  If you use this dataset, please cite it using the
-  metadata from this file.
 authors:
   - family-names: Solfrini
     given-names: Sonia
@@ -31,13 +31,11 @@ authors:
     orcid: 0000-0002-2601-668X
 repository-code: 'https://github.com/SETAFDH/Annotation-linguistique-SETAF'
 url: 'https://github.com/SETAFDH/Annotation-linguistique-SETAF'
-abstract: >-
-  Linguistic annotation data for the SETAF project.
 keywords:
   - linguistic annotation
   - french
   - modern
   - prints
 license: CC-BY-4.0
-version: 1.0
+version: "1.0"
 date-released: 2024-04-23
