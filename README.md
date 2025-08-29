@@ -29,7 +29,7 @@ Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [
 - Version `1.0`: Sonia Solfrini, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Mylène Dejouy, Simon Gabay et Daniela Solfaroli Camillocci, _Données linguistiques du projet SETAF_, version `1.0`, Genève, université de Genève, 2023-2026, https://github.com/SETAFDH/Annotation-linguistique-SETAF.
 
 ```bibtex
-@misc{solfrini_tei_setaf,
+@misc{solfrini_annotation_linguistique_setaf,
   author={Solfrini, Sonia and Beaulnes, Pierre-Olivier and Marques Oliveira, Aurélia and Dejouy, Mylène and Gabay, Simon and Solfaroli Camillocci, Daniela},
   title={Données linguistiques du projet SETAF},
   version={1.0},
