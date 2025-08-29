@@ -4,7 +4,11 @@ Ce dépôt est en cours de construction.
 
 Ce dépôt comprend les données d'annotation linguistique du projet SETAF. 
 
-Description à venir
+Une annotation linguistique est produite à partir des lignes de texte normalisées (normalisation semi-diplomatique). Elle comprend la lemmatisation des tokens, ainsi que l’étiquetage syntaxique et morphologique des lemmes. Le référentiel que nous avons choisi pour lemmatiser les textes est LGeRM (Souvay & Pierrel, 2009), développé dans le cadre du DMF. Concernant l’étiquetage syntaxique et morphologique, nous suivons le jeu d’étiquettes Cattex-max (Prévost et al., 2013), dont les principes sont indiqués dans les Principes d’annotation Cattex09 (Guillot et al., 2013) et développés dans le Manuel d’annotation linguistique pour le français moderne (XVIe - XVIIIe siècles) (Gabay et al., 2022a). Pour réaliser ces annotations, nous utilisons l’application Pyrrha (Clérice et al., 2024), qui permet d’utiliser le modèle FreEM (French Early Modern) (Gabay et al., 2022b), basé sur LGeRM et Cattex-max. Cet outil permet également la correction manuelle des annotations, ce qui garantit une meilleure qualité des données. À ce jour, environ 10 000 tokens issus de nos documents ont été vérifiés manuellement.
+
+Pour plus de détails, voir :
+
+Sonia Solfrini, Mylène Dejouy, Aurélia Marques Oliveira, Pierre-Olivier Beaulnes. « Normaliser le moyen français : du graphématique au semi-diplomatique », actes de CORIA-TALN-RJCRI-RECITAL 2025, juillet 2025, Marseille, France. [⟨hal-05137564⟩](https://hal.science/hal-05137564).
 
 
 ## Projet SETAF
