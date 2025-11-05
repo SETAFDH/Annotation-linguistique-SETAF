@@ -1,4 +1,4 @@
-Identifier,Transcription quality,Number of tokens,Annotation quality gold (verified),Annotation quality silver (not verified)Pages,Imprimeur,Titre bref,Auteur,Date,Lieu,Lien fac-similé numérique,Exemplaire
+Identifier,Transcription quality,Number of tokens,Annotation quality gold (verified),Annotation quality silver (not verified),Pages,Imprimeur,Titre bref,Auteur,Date,Lieu,Lien fac-similé numérique,Exemplaire
 CRRPV03,gold,36 733,,silver,128,[Pierre de Vingle],Instruction des enfans,[Pierre Robert Olivétan],1533,Genève,https://doi.org/10.3931/e-rara-6933,	Genève BGE - BGE Cth 2651 / BGE Bd 1477
 CRRPV04,gold,4 906,2 000 tokens (M.),the rest silver,29,[Pierre de Vingle],"Grans pardons et indulgences, le tresgrand Jubile de plainiere remission",[Anonyme],[1533?],[Genève],https://doi.org/10.3931/e-rara-33167,Neuchâtel BPUN - BPUN A.F. C 30
 CRRPV08,gold,6 002,,2 000 gold (P.O./M.) and the rest silver,46,[Pierre de Vingle],Livre des marchans,[Antoine Marcourt],1533,[Neuchâtel],https://doi.org/10.3931/e-rara-539,Zurich ZB - Res 1330
